@@ -33,3 +33,9 @@ Agregar remotos
 Eliminar remotos
 `git remote remove EDgit`
 >>>>>>> master
+
+## Creando etiquedas
+
+Es necesario entender que las etiquetas (o releases) sólo deben ser creadas a partir de la rama master como buena práctica.
+
+Para entender como llamar o categorizar a tus versiones te recomendamos un artículo en nuestro blog: https://ed.team/blog/como-se-deciden-las-versiones-del-software
