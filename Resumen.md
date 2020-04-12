@@ -13,4 +13,4 @@
 11. Una vez creado el pull request el administrador del  proyecto original lo revisará
 12. Se aprueba o se rechaza el Pull Request
 13. Cada dev debe revisar constantemente (fetch) si no hubo cambios en el proyecto original
-14. Se debe eliminar las ramas que ya fueron aprobadas/rechazadas 
+14. Se debe eliminar las ramas que ya fueron aprobadas/rechazadas. 
